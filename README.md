@@ -1,0 +1,2 @@
+# Kool
+versioonihalduse harjutamine GitHubis.
