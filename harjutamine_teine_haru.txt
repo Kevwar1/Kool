@@ -1,3 +1,8 @@
 Mis on Github? V: Faili- ja koodijagamisteenus, kus saavad teha koostööd erinevad inimesed. See teenus on eriti hea, kui on mitu inimest sama projekti kallal töötamas
 
 Kus ja kuidas saan ise edaspidi Githubi kasutada? V: Programmide/scriptide/failide hoiustamiseks/jagamiseks/allalaadimiseks. Kui peaksin kellegiga tegema koostööd, saame siin platvormil koos samaaegselt faile editida
+
+
+GitHubi ajalugu:            GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007
+                            GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris
+                            
